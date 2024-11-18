@@ -1,4 +1,4 @@
-A Discord Bot that send Genshin Fanart. It can send daily fanart as well as random, recent or specific fanart via search. 
+A Discord Bot that sends Genshin Fanart from Danbooru. The bot can send daily fanart, 
 
 ### Steps to use: 
 1. Set up an Anaconda environment on Windows 10 with the requirements. 
